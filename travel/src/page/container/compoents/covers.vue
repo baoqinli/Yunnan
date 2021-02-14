@@ -10,6 +10,7 @@
     <div class="covers-img" @click="imgeShow">
       {{this.album.length}}张图片
     </div>
+		<!-- 1234567869 -->
     <!-- 小导航 -->
     <div class="calssify">
       <div>1</div>
